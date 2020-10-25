@@ -12,7 +12,7 @@ de usar los mandos de este dispositivo, se utiliza Leap Motion para capturar el 
 de este e intentar lograr de esta manera una mayor sensación de pertenecia.
 
 En el siguiente enlace a mi drive se puede ver un video del funcionamiento de la aplicación desde dentro
-de la visión del casco de Oculus. [link](https://drive.google.com/file/d/1Ipie9QDXV9l8Hm_Rtbf9N5_b4T5IVS-z/view?usp=sharing)
+de la visión del casco de Oculus. [Video Demostración](https://drive.google.com/file/d/1Ipie9QDXV9l8Hm_Rtbf9N5_b4T5IVS-z/view?usp=sharing)
 
 **Nota obtenida en el proyecto: 9.9**
 
